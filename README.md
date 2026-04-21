@@ -1,6 +1,6 @@
 # EGX Riders — Política de Privacidad
 
-Página estática con la Política de Privacidad de la app móvil **EGX Riders** (operada por elgenioX).
+Página estática con la Política de Privacidad de la app móvil **EGX Riders**.
 
 ## Despliegue en GitHub Pages
 
